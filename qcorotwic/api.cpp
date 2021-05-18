@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2021 Daniel Vrátil <dvratil@kde.org>
+//
+// SPDX-License-Identifier: MIT
+
 #include "api.h"
 #include "utils/literals.h"
 #include "secrets.h"
